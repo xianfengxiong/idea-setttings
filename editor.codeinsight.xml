@@ -2,6 +2,10 @@
   <component name="CodeFoldingSettings">
     <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
   </component>
+  <component name="CodeInsightSettings">
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="HIGHLIGHT_SCOPE" value="true" />
+  </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseAccessors" value="true" />
     <option name="collapseOneLineMethods" value="false" />
