@@ -1,17 +1,16 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
+      <component name="CodeInsightWorkspaceSettings">
+        <option name="optimizeImportsOnTheFly" value="true" />
+      </component>
       <component name="CompilerConfiguration">
-        <option name="BUILD_PROCESS_HEAP_SIZE" value="1024" />
         <annotationProcessing>
           <profile default="true" name="Default" enabled="true" />
         </annotationProcessing>
+        <bytecodeTargetLevel target="8" />
       </component>
-      <component name="CompilerWorkspaceConfiguration">
-        <option name="MAKE_PROJECT_ON_SAVE" value="true" />
-        <option name="PARALLEL_COMPILATION" value="true" />
-      </component>
-      <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+      <component name="Encoding">
         <file url="PROJECT" charset="UTF-8" />
       </component>
       <component name="Kotlin2JsCompilerArguments">
@@ -22,8 +21,17 @@
         <option name="generalSettings">
           <MavenGeneralSettings>
             <option name="alwaysUpdateSnapshots" value="true" />
+            <option name="mavenHome" value="$USER_HOME$/soft/apache-maven-3.5.3" />
           </MavenGeneralSettings>
         </option>
+        <option name="importingSettings">
+          <MavenImportingSettings>
+            <option name="importAutomatically" value="true" />
+          </MavenImportingSettings>
+        </option>
+      </component>
+      <component name="MavenRunner">
+        <option name="jreName" value="1.8" />
       </component>
       <component name="ProjectDictionaryState">
         <dictionary name="xxf" />
@@ -43,27 +51,21 @@
         </entry>
       </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="ics" />
+        <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
       </component>
-      <component name="ScalaSbtSettings">
-        <option name="customVMPath" />
+      <component name="ThriftCompiler">
+        <compilers />
       </component>
       <component name="VcsContentAnnotationSettings">
         <option name="myLimit" value="2678400000" />
       </component>
+      <component name="VcsManagerConfiguration">
+        <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+        <option name="FORCE_NON_EMPTY_COMMENT" value="true" />
+        <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+      </component>
       <component name="masterDetails">
         <states>
-          <state key="Copyright.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
           <state key="ScopeChooserConfigurable.UI">
             <settings>
               <splitter-proportions>
