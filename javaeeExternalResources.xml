@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.3/extResources/cf63db72_mybatis-generator-config_1_0.dtd" />
+    <resource url="http://www.puppycrawl.com/dtds/configuration_1_2.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.2/extResources/1516d131_configuration_1_2.dtd" />
   </component>
 </application>
