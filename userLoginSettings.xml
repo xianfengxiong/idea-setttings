@@ -1,10 +1,10 @@
 <application>
   <component name="UserLoginSettings">
-    <option name="lastLogin" value="1543303308056" />
+    <option name="lastLogin" value="1543481129504" />
     <option name="locale" value="zh" />
-    <option name="login" value="false" />
+    <option name="login" value="true" />
     <option name="loginInterval" value="Yearly" />
-    <option name="nextLogin" value="1574407308056" />
+    <option name="nextLogin" value="1574585129504" />
     <option name="userName" value="xiongxianfeng" />
   </component>
 </application>
