@@ -2,7 +2,7 @@
   <component name="UserLoginSettings">
     <option name="lastLogin" value="1543481129504" />
     <option name="locale" value="zh" />
-    <option name="login" value="true" />
+    <option name="login" value="false" />
     <option name="loginInterval" value="Yearly" />
     <option name="nextLogin" value="1574585129504" />
     <option name="userName" value="xiongxianfeng" />
