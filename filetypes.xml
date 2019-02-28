@@ -8,6 +8,7 @@
       <mapping ext="pro" type="PLAIN_TEXT" />
       <mapping ext="st" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="gen" type="PLAIN_TEXT" />
       <mapping ext="2018-10-25" type="PLAIN_TEXT" />
