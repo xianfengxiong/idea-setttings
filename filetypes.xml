@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="haproxy" type="PLAIN_TEXT" />
       <mapping pattern="sensitive_base_20180131" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="2018-10-26" type="PLAIN_TEXT" />
