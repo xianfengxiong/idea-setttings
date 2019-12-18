@@ -2,8 +2,8 @@
   <component name="Notifier.NotifierSettings">
     <option name="autoUpdate" value="true" />
     <option name="checkUpdates" value="true" />
-    <option name="lastExecution" value="1576555069358" />
-    <option name="nextExecution" value="1576641469358" />
+    <option name="lastExecution" value="1576641466484" />
+    <option name="nextExecution" value="1576727866484" />
     <option name="updateInterval" value="Daily" />
   </component>
 </application>
