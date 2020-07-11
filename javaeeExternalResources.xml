@@ -1,6 +1,10 @@
 <application>
   <component name="ExternalResourceManagerImpl">
-    <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.3/extResources/cf63db72_mybatis-generator-config_1_0.dtd" />
+    <resource url="http://ibatis.apache.org/dtd/ibatis-3-config.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.2/extResources/d86d6899_ibatis-3-config.dtd" />
+    <resource url="http://ibatis.apache.org/dtd/ibatis-3-mapper.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.2/extResources/22160c18_ibatis-3-mapper.dtd" />
+    <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.2/extResources/cf63db72_mybatis-generator-config_1_0.dtd" />
+    <resource url="http://pixel.sankuai.com/repository/releases/com/meituan/apidoc/servicecatalog/1.0.0/servicecatalog-1.0.0.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.2/extResources/98a86ddb_servicecatalog-1.0.0.xsd" />
     <resource url="http://www.puppycrawl.com/dtds/configuration_1_2.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.2/extResources/1516d131_configuration_1_2.dtd" />
+    <resource url="http://www.springframework.org/schema/beans" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.2/extResources/a32f63cf_spring-beans-3.0.xsd" />
   </component>
 </application>
